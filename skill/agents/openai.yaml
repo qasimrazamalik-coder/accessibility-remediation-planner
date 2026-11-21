@@ -1,0 +1,4 @@
+interface:
+  display_name: "Accessibility Remediation Planner"
+  short_description: "Prioritize WCAG remediation work from accessibility findings using severity, reach and fix conf"
+  default_prompt: "Use @accessibility-remediation-planner on my authorized input and return a validated result."
